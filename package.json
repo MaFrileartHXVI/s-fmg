@@ -1,6 +1,35 @@
 {
-  "name": "manifest",
-  "version": "0.0.1",
+  "name": "s-fmg",
+  "version": "1.0.0",
+  "description": "Spatial-Based Fleet Manifest Generator (S-FMG) for Multi-Trip Capacitated Vehicle Routing Problem with Time Windows (MT-CVRPTW) Simulation in Telaga Murni",
+  "keywords": [
+    "spatial-dataset",
+    "synthetic-data-generator",
+    "mt-cvrptw",
+    "last-mile-delivery",
+    "osrm-table-api",
+    "fleet-manifest",
+    "genetic-algorithm",
+    "greedy-nearest-neighbor",
+    "nextjs",
+    "supabase",
+    "postgis"
+  ],
+  "homepage": "https://github.com/MaFrileartHXVI/s-fmg#readme",
+  "bugs": {
+    "url": "https://github.com/MaFrileartHXVI/s-fmg/issues",
+    "email": "mafrilearthxvi@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Muhammad Fauzul Hanif",
+    "email": "mafrilearthxvi@gmail.com",
+    "url": "https://scholar.google.com/citations?user=your_profile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaFrileartHXVI/s-fmg.git"
+  },
   "type": "module",
   "private": true,
   "scripts": {
