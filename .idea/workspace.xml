@@ -4,41 +4,101 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c470820-5e14-4865-ab38-c767bc3f8aee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AGENTS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/theme-provider.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ui/button.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hooks/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/postcss.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    <list default="true" id="c26546b9-938f-4ee5-a2be-5cd8dbefe909" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/geo-manifest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/manifest-generator/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/spatial-registry/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/excel.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mapbox.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/supabase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components.json" beforeDir="false" afterPath="$PROJECT_DIR$/components.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000000041567" />
+      <entry key="M5" value="1.000092233009818" />
+      <entry key="M10" value="1.028060371825118" />
+      <entry key="M15" value="1.1966893790439057" />
+      <entry key="M30" value="2.4329618133946207" />
+      <entry key="H1" value="4.941091196340402" />
+      <entry key="H2" value="7.571508379041909" />
+      <entry key="H4" value="9.497955158906063" />
+      <entry key="D1" value="11.536171529539601" />
+      <entry key="W1" value="11.932490441187856" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.19210939766100152" />
+      <entry key="MS500" value="0.7189682664234787" />
+      <entry key="S2" value="0.9208256972050399" />
+      <entry key="S5" value="0.9675445527401122" />
+      <entry key="S10" value="0.983638425815153" />
+      <entry key="S30" value="0.9945161240145711" />
+      <entry key="S60" value="0.9972542925525922" />
+      <entry key="M2" value="0.9986262026207795" />
+      <entry key="M5" value="0.9995420678000745" />
+      <entry key="M10" value="1.0277263510765224" />
+      <entry key="M15" value="1.1962464502115906" />
+      <entry key="M30" value="2.432009958569058" />
+      <entry key="H1" value="4.939934702674693" />
+      <entry key="H2" value="7.570592121364263" />
+      <entry key="H4" value="9.49737700199664" />
+      <entry key="D1" value="11.53605443087419" />
+      <entry key="W1" value="11.932473142924765" />
+    </decayedShown>
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -47,28 +107,28 @@
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="3FOq0M1O0XxCTJOC2iiZJ0yEQFz" />
+  <component name="ProjectId" id="3FRmVvQXGthdbrnoRpzZXLfanDM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "code.cleanup.on.save": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.preferred.runtime.type.id": "deno",
+    "javascript.preferred.runtime.type.id": "node",
     "js.debugger.nextJs.config.created.client": "true",
     "js.debugger.nextJs.config.created.server": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/mafri/Desktop/s-fmg",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -78,8 +138,9 @@
     "nodejs_package_manager_path": "npm",
     "npm.Next.js: server-side.executor": "Run",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save",
+    "settings.editor.selected.configurable": "preferences.sourceCode.TypeScript",
     "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "C:\\Users\\mafri\\Desktop\\geo-manifest\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,13 +168,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9c470820-5e14-4865-ab38-c767bc3f8aee" name="Changes" comment="" />
-      <created>1781956240297</created>
+      <changelist id="c26546b9-938f-4ee5-a2be-5cd8dbefe909" name="Changes" comment="" />
+      <created>1782046284233</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1781956240297</updated>
-      <workItem from="1781956241788" duration="1013000" />
-      <workItem from="1781960802763" duration="202000" />
+      <updated>1782046284233</updated>
+      <workItem from="1782046286215" duration="12098000" />
+      <workItem from="1782060497914" duration="1626000" />
     </task>
     <servers />
   </component>

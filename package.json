@@ -1,35 +1,6 @@
 {
-  "name": "s-fmg",
-  "version": "1.0.0",
-  "description": "Spatial-Based Fleet Manifest Generator (S-FMG) for Multi-Trip Capacitated Vehicle Routing Problem with Time Windows (MT-CVRPTW) Simulation in Telaga Murni",
-  "keywords": [
-    "spatial-dataset",
-    "synthetic-data-generator",
-    "mt-cvrptw",
-    "last-mile-delivery",
-    "osrm-table-api",
-    "fleet-manifest",
-    "genetic-algorithm",
-    "greedy-nearest-neighbor",
-    "nextjs",
-    "supabase",
-    "postgis"
-  ],
-  "homepage": "https://github.com/MaFrileartHXVI/s-fmg#readme",
-  "bugs": {
-    "url": "https://github.com/MaFrileartHXVI/s-fmg/issues",
-    "email": "mafrilearthxvi@gmail.com"
-  },
-  "license": "MIT",
-  "author": {
-    "name": "Muhammad Fauzul Hanif",
-    "email": "mafrilearthxvi@gmail.com",
-    "url": "https://scholar.google.com/citations?user=your_profile"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MaFrileartHXVI/s-fmg.git"
-  },
+  "name": "geo-manifest",
+  "version": "0.0.1",
   "type": "module",
   "private": true,
   "scripts": {
@@ -41,17 +12,23 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "@supabase/ssr": "^0.12.0",
+    "@supabase/supabase-js": "^2.108.2",
+    "@tanstack/react-table": "^8.21.3",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^1.21.0",
+    "mapbox-gl": "^3.25.0",
     "next": "16.2.6",
     "next-themes": "^0.4.6",
     "radix-ui": "^1.6.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "shadcn": "^4.11.0",
+    "sonner": "^2.0.7",
     "tailwind-merge": "^3.6.0",
-    "tw-animate-css": "^1.4.0"
+    "tw-animate-css": "^1.4.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
